@@ -1,0 +1,14 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Jul 03 11:23:40 CDT 2021
+https\://repo1.maven.org/maven2/.lastUpdated=1625234724127
+@default-central-repo-1-http\://repo.maven.apache.org/maven2/.lastUpdated=1604035320012
+@default-central-repo2-http\://repo1.maven.org/maven2/.lastUpdated=1604035321506
+https\://oss.shunyafoundation.com/artifactory/libs-release/.lastUpdated=1625329420448
+http\://dl.bintray.com/capgeminiuk/maven/.lastUpdated=1604035323879
+https\://build.shibboleth.net/nexus/content/repositories/releases/.error=
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.capgemini\:archaius-spring-adapter\:jar\:0.9.2 from/to central-repo-1 (http\://repo.maven.apache.org/maven2)\: Failed to transfer http\://repo.maven.apache.org/maven2/com/capgemini/archaius-spring-adapter/0.9.2/archaius-spring-adapter-0.9.2.jar. Error code 501, HTTPS Required
+https\://repo.maven.apache.org/maven2/.lastUpdated=1625234724115
+https\://build.shibboleth.net/nexus/content/repositories/releases/.lastUpdated=1625329420144
+https\://repo.maven.apache.org/maven2/.error=
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact com.capgemini\:archaius-spring-adapter\:jar\:0.9.2 from/to central-repo2 (http\://repo1.maven.org/maven2)\: Failed to transfer http\://repo1.maven.org/maven2/com/capgemini/archaius-spring-adapter/0.9.2/archaius-spring-adapter-0.9.2.jar. Error code 501, HTTPS Required
+https\://repo1.maven.org/maven2/.error=

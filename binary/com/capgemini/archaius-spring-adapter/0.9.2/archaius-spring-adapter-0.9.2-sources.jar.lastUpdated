@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Oct 30 00:22:01 CDT 2020
+http\://dl.bintray.com/capgeminiuk/maven/.lastUpdated=1604035321123
+@default-central-repo-1-http\://repo.maven.apache.org/maven2/.lastUpdated=1604035320500
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact com.capgemini\:archaius-spring-adapter\:jar\:sources\:0.9.2 from/to central-repo2 (http\://repo1.maven.org/maven2)\: Failed to transfer http\://repo1.maven.org/maven2/com/capgemini/archaius-spring-adapter/0.9.2/archaius-spring-adapter-0.9.2-sources.jar. Error code 501, HTTPS Required
+@default-central-repo2-http\://repo1.maven.org/maven2/.lastUpdated=1604035320530
+https\://artifacts.alfresco.com/nexus/content/groups/public/.lastUpdated=1604035320476
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.capgemini\:archaius-spring-adapter\:jar\:sources\:0.9.2 from/to central-repo-1 (http\://repo.maven.apache.org/maven2)\: Failed to transfer http\://repo.maven.apache.org/maven2/com/capgemini/archaius-spring-adapter/0.9.2/archaius-spring-adapter-0.9.2-sources.jar. Error code 501, HTTPS Required
+https\://artifacts.alfresco.com/nexus/content/groups/public/.error=
